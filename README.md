@@ -1,16 +1,3 @@
-# Birthday Wishes Generator  
-
-Create personalized birthday wishes with style and ease! This project allows you to create and deploy a beautifully designed webpage to celebrate someone special.
-
-## Features  
-
-- **Customizable Greetings:** Personalize birthday messages with names, photos, and themes.  
-- **Responsive Design:** Looks perfect on any device, from desktops to smartphones.  
-- **Quick Deployment:** Share the joy by hosting it online effortlessly.  
-- **Animated Elements:** Add a touch of magic with interactive and animated designs.  
-
-## How to Use  
-
 1. **Clone the Repository**  
 
     ```bash  
@@ -37,10 +24,6 @@ Create personalized birthday wishes with style and ease! This project allows you
 
     - Enable GitHub Pages in the repository settings.  
     - Alternatively, deploy using [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/).  
-
-## Live Demo  
-
-Check out the demo: [https://afsify.github.io/happy-birthday](https://afsify.github.io/happy-birthday)  
 
 ## Technologies Used  
 
